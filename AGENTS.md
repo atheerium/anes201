@@ -1,11 +1,11 @@
-# AGENTS.md — GitHub Profile Repo (Anes201/anes201)
+# AGENTS.md — GitHub Profile Repo (atheerium/atheerium)
 
-This is a **GitHub Profile README** repo. GitHub renders `README.md` on [github.com/Anes201](https://github.com/Anes201) because the repo name matches the username.
+This is a **GitHub Profile README** repo. GitHub renders `README.md` on [github.com/atheerium](https://github.com/atheerium) because the repo name matches the username.
 
 ## Repo Structure
 
 ```
-anes201/
+atheerium/
 ├── README.md                          # Main profile page content
 ├── gitartwork.svg                     # Generated: pixel art from contribution graph
 ├── profile-3d-contrib/                # Generated: 3D contribution chart SVGs
@@ -59,15 +59,15 @@ anes201/
 
 ### Triggering workflows manually:
 ```bash
-gh workflow run "GitHub-Profile-3D-Contrib" --repo anes201/anes201
-gh workflow run "gitartwork from a contribution graph" --repo anes201/anes201
-gh workflow run "GitHub Snake Game" --repo anes201/anes201
+gh workflow run "GitHub-Profile-3D-Contrib" --repo atheerium/atheerium
+gh workflow run "gitartwork from a contribution graph" --repo atheerium/atheerium
+gh workflow run "GitHub Snake Game" --repo atheerium/atheerium
 ```
 
 ### Checking workflow status:
 ```bash
-gh run list --repo anes201/anes201 --limit 5
-gh run view <run-id> --repo anes201/anes201 --log-failed
+gh run list --repo atheerium/atheerium --limit 5
+gh run view <run-id> --repo atheerium/atheerium --log-failed
 ```
 
 ## Known Issues & Fixes

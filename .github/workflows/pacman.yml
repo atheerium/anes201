@@ -19,7 +19,7 @@ jobs:
       - name: Generate pacman-contribution-graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: anes201
+          github_user_name: atheerium
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3

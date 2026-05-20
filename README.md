@@ -10,11 +10,11 @@
 
 > **👨‍💻 About Me** <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-- 🔭 I'm **[Anes201](https://github.com/Anes201)**
+- 🔭 I'm **[atheerium](https://github.com/atheerium)**
 - 🐛 A passionate developer building tools across **Rust**, **Go**, **Python**, and **TypeScript**. I love crafting lightweight, practical CLI tools and web applications that solve real problems.
-- 🌱 Currently working on **[whisp-rs](https://github.com/Anes201/whisp-rs)** — lightweight voice-to-text dictation for Linux (Wayland/COSMIC)
-- 🔭 Also building **[decoright-react](https://github.com/Anes201/decoright-react)** — a React-based decoration tool
-- 🛠️ Other projects: **[markitdown-cli](https://github.com/Anes201/markitdown-cli)**, **[eye-guard](https://github.com/Anes201/eye-guard)**, **[mcp-skill-maker](https://github.com/Anes201/mcp-skill-maker)**, **[athan-cli](https://github.com/Anes201/athan-cli)**
+- 🌱 Currently working on **[whisp-rs](https://github.com/atheerium/whisp-rs)** — lightweight voice-to-text dictation for Linux (Wayland/COSMIC)
+- 🔭 Also building **[decoright-react](https://github.com/atheerium/decoright-react)** — a React-based decoration tool
+- 🛠️ Other projects: **[markitdown-cli](https://github.com/atheerium/markitdown-cli)**, **[eye-guard](https://github.com/atheerium/eye-guard)**, **[mcp-skill-maker](https://github.com/atheerium/mcp-skill-maker)**, **[athan-cli](https://github.com/atheerium/athan-cli)**
 - 🌱 I'm currently exploring **systems programming, MCP tooling, and AI-assisted workflows**
 - 👯 I'm looking to collaborate on **open-source projects** and interesting CLI tools
 - ⚡ Fun fact: **It works on my machine😃!**
@@ -42,13 +42,13 @@
     </tr>
     <tr>
       <td>
-        <img src="https://komarev.com/ghpvc/?username=anes201&style=flat-square" />
+        <img src="https://komarev.com/ghpvc/?username=atheerium&style=flat-square" />
       </td>
       <td>
-        <img src="https://img.shields.io/github/followers/anes201?style=social" />
+        <img src="https://img.shields.io/github/followers/atheerium?style=social" />
       </td>
       <td>
-        <img src="https://img.shields.io/github/stars/anes201?style=social" />
+        <img src="https://img.shields.io/github/stars/atheerium?style=social" />
       </td>
       <td>
         <img src="https://awesome.re/badge.svg" />
@@ -70,7 +70,7 @@
   </h2>
 
   <p align="left">
-  <img src="https://github.com/anes201/anes201/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://github.com/atheerium/atheerium/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 </p>
 
   <div align="center">
@@ -82,25 +82,25 @@
   </div>
   
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=anes201&show_icons=true&theme=radical"/>
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=anes201&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=atheerium&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=atheerium&theme=radical"/>
 </div>
 
 <table>
 <tr>
 <td width="33%">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anes201&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atheerium&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anes201&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atheerium&theme=transparent" />
 
 </td>
 <td width="33%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anes201&theme=transparent&utc_offset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atheerium&theme=transparent&utc_offset=5.5" />
 
 </td>
 </tr>
@@ -111,13 +111,13 @@
 
   <div align="center">
     <img
-      src="https://github-trophies.vercel.app/?username=anes201&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+      src="https://github-trophies.vercel.app/?username=atheerium&theme=discord&no-frame=true&no-bg=true&margin-w=4"
     />
   </div>
 
 <div align="center">
   <img
-    src="https://ghchart.rshah.org/anes201"
+    src="https://ghchart.rshah.org/atheerium"
     alt="GitHub Contribution Chart"
   />
 </div>
@@ -130,7 +130,7 @@
 
 
 ## 🐾 Git Animals   <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-<img src="https://render.gitanimals.org/farms/anes201" width="500"/>
+<img src="https://render.gitanimals.org/farms/atheerium" width="500"/>
 
 </td>
 
@@ -147,7 +147,7 @@ Take a break and explore some fun projects!
 🟪🟦🟨🟥🟩🟦🟨<br>
 🟦🟨🟪🟩🟥🟪🟩<br><br>
 
-Check out my repos for more 👉 [Anes201 Repos](https://github.com/Anes201?tab=repositories)
+Check out my repos for more 👉 [atheerium Repos](https://github.com/atheerium?tab=repositories)
 
 </td>
 </tr>
@@ -175,15 +175,15 @@ Check out my repos for more 👉 [Anes201 Repos](https://github.com/Anes201?tab=
 <div align=center>
 
 ### 📫 **Connect with Me** <img height="40" alt="Atheer" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anes201)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atheerium)
 
 ---
 # My Code Kingdom 😂
   
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anes201/anes201/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anes201/anes201/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anes201/anes201/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atheerium/atheerium/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atheerium/atheerium/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/atheerium/atheerium/output/github-snake.svg" />
 </picture>
 
 ---
@@ -192,28 +192,28 @@ Check out my repos for more 👉 [Anes201 Repos](https://github.com/Anes201?tab=
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=435&lines=Atheer+%F0%9F%98%81+-+Developer+%F0%9F%92%BB;Rust+%2B+Go+%2B+Python+%2B+TS+%F0%9F%9A%80;Building+CLI+Tools+%26+Web+Apps+%E2%9A%A1;Voice-to-Text+on+Linux+%F0%9F%8E%A4;MCP+Tooling+%26+AI+Workflows+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%8D;Just+a+Curious+Dev+on+a+Mission+%F0%9F%8C%9F;" />
 </p>
 
-[![Atheer's gitartwork](gitartwork.svg)](https://github.com/Anes201)
+[![Atheer's gitartwork](gitartwork.svg)](https://github.com/atheerium)
 
 ## Featured Projects ⚡
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Anes201/whisp-rs">
+      <a href="https://github.com/atheerium/whisp-rs">
         <strong>whisp-rs</strong><br/>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
         <br/><em>Voice-to-text for Linux</em>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Anes201/decoright-react">
+      <a href="https://github.com/atheerium/decoright-react">
         <strong>decoright-react</strong><br/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <br/><em>React decoration tool</em>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Anes201/markitdown-cli">
+      <a href="https://github.com/atheerium/markitdown-cli">
         <strong>markitdown-cli</strong><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <br/><em>Microsoft Markitdown CLI wrapper</em>
@@ -222,21 +222,21 @@ Check out my repos for more 👉 [Anes201 Repos](https://github.com/Anes201?tab=
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Anes201/eye-guard">
+      <a href="https://github.com/atheerium/eye-guard">
         <strong>eye-guard</strong><br/>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
         <br/><em>Eye protection tool</em>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Anes201/mcp-skill-maker">
+      <a href="https://github.com/atheerium/mcp-skill-maker">
         <strong>mcp-skill-maker</strong><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <br/><em>MCP skill generator</em>
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Anes201/athan-cli">
+      <a href="https://github.com/atheerium/athan-cli">
         <strong>athan-cli</strong><br/>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
         <br/><em>Prayer time CLI tool</em>
