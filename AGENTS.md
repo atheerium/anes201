@@ -1,4 +1,4 @@
-# AGENT.md — GitHub Profile Repo (Anes201/anes201)
+# AGENTS.md — GitHub Profile Repo (Anes201/anes201)
 
 This is a **GitHub Profile README** repo. GitHub renders `README.md` on [github.com/Anes201](https://github.com/Anes201) because the repo name matches the username.
 
